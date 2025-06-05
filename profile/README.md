@@ -2,8 +2,6 @@
 
 ## A comprehensive modern toolbox for grazing-incidence diffraction (GID)
 
-
-
 <p align="center">
   <img src="images/mlgid-logo.png" width="400" alt="mlgid">
 </p>
@@ -17,17 +15,19 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 # Available packages
 
-## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI)
+## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - provides graphical user interface for annotating GID data.
 
-Provides graphical user interface for annotating GID data.
+## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulates synthetic GID data from crystal structures.
 
-## [pygidSIM](https://github.com/mlgid-project/pygidSIM)
+---
 
-Simulates synthetic GID data from crystal structures.
-
-# Papers
+# Publications
 
 The following is the list of papers related to the _mlgid_ project.
+
+
+<details>
+  <summary><strong>List of papers</strong></summary>
 
 ### ML-based peak detection and structure refinement
 
@@ -47,3 +47,5 @@ V. Starostin, L. Pithan, A. Greco, V. Munteanu, A. Gerlach, A. Hinderhofer, and 
 _Benchmarking deep learning for automated peak detection on GIWAXS data_
 
 C. Völter, V. Starostin, D. Lapkin, V. Munteanu, M. Romodin, M. Hylinski, A. Gerlach, A. Hinderhofer, F. Schreiber. Journal of Applied Crystallography (2025) accepted [https://doi.org/10.1107/S1600576725000974](https://doi.org/10.1107/S1600576725000974)
+
+</details>
