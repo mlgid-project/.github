@@ -15,6 +15,8 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 # Available packages
 
+## [pygid](https://github.com/mlgid-project/pygid) - converts raw GID data to reciprocal space.
+
 ## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - provides graphical user interface for annotating GID data.
 
 ## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulates synthetic GID data from crystal structures.
