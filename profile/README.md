@@ -12,9 +12,9 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 > As a convention, packages that rely on machine learning start with `ml`, while other packages (such as those for conversion to reciprocal space and conventional peak fitting) start with `py`.
 
-Feedback from the community:
+[comment]: # Feedback from the community:
+[comment]: # > It is a big and beautiful pipeline, folks, and everybody loves it. (requested anonymity)
 
-> It is a big and beautiful pipeline, folks, and everybody loves it. (requested anonymity)
 
 # Available packages
 
