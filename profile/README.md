@@ -3,7 +3,7 @@
 ## A comprehensive modern toolbox for grazing-incidence diffraction (GID)
 
 <p align="center">
-  <img src="images/mlgid-logo.png" width="400" alt="mlgid">
+  <img src="images/mlgid_logo_mlgid.png" width="400" alt="mlgid">
 </p>
 
 This project aims to implement a comprehensive set of tools for the standardization and automation of GID data processing. The packages can be used separately or combined together in the pipeline. 
