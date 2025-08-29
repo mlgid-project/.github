@@ -24,12 +24,12 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 ## [pygidFIT](https://github.com/mlgid-project/pygidFIT) - fitting of Bragg peaks
 
-## [mlgidMATCH](https://github.com/mlgid-project/mlgidMATCH) - ML-based matching of crystal structures (CIF files) with Bragg peaks
+## [mlgidMATCH](https://github.com/mlgid-project/mlgidMATCH) - ML-based matching of crystal structures with Bragg peaks
 
 
 ## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - graphical user interface for annotating GID data
 
-## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulating synthetic GID data from crystal structures (CIF files)
+## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulating synthetic GID data from crystal structures
 
 ---
 
