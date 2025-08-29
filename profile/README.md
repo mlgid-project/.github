@@ -20,11 +20,11 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 ## [pygid](https://github.com/mlgid-project/pygid) - conversion of raw GID data to reciprocal space
 
-## [pygidFIT](https://github.com/mlgid-project/mlgidDETECT) - ML-based Bragg peak detection in GID data
+## [mlgidDETECT](https://github.com/mlgid-project/mlgidDETECT) - ML-based Bragg peak detection in GID data
 
 ## [pygidFIT](https://github.com/mlgid-project/pygidFIT) - fitting of Bragg peaks in GID data
 
-## [pygidFIT](https://github.com/mlgid-project/mlgidMATCH) - ML-based matching of crystal structures (CIF files) with Bragg peaks in GID data
+## [mlgidMATCH](https://github.com/mlgid-project/mlgidMATCH) - ML-based matching of crystal structures (CIF files) with Bragg peaks in GID data
 
 
 ## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - graphical user interface for annotating GID data
