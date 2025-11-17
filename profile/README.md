@@ -1,6 +1,6 @@
 # mlgid-project
 
-## A comprehensive modern toolbox for grazing-incidence diffraction (GID)
+## A comprehensive toolbox for grazing-incidence diffraction (GID)
 
 <p align="center">
   <img src="images/mlgid_logo_mlgid.png" width="400" alt="mlgid">
@@ -40,6 +40,12 @@ The following is the list of papers related to the _mlgid_ project.
 
 <details>
   <summary><strong>List of papers</strong></summary>
+
+### mlgidGUI
+
+mlgidGUI - an annotation program for 2D scattering data
+
+C. Völter, V. Starostin, M. Romodin, E. Kneschaurek, D. Lapkin, A. Hinderhofer, and F. Schreiber. Journal of Open Source Software [https://joss.theoj.org/papers/10.21105/joss.08499]
 
 ### ML-based peak detection and structure refinement
 
