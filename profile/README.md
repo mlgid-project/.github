@@ -43,13 +43,13 @@ The following is the list of papers related to the _mlgid_ project.
 
 ### pygid
 
-pygid: a Python package for fast data reduction in grazing-incidence diffraction
+_pygid: a Python package for fast data reduction in grazing-incidence diffraction_
 
 A. Abukaev, C. Völter, M. Romodin, S. Schwartzkopff, F. Bertram, O. Konovalov, A. Hinderhofer, D. Lapkin and F. Schreiber. 	Journal of Applied Crystallography [https://doi.org/10.1107/S1600576725010593]
 
 ### mlgidGUI
 
-mlgidGUI - an annotation program for 2D scattering data
+_mlgidGUI - an annotation program for 2D scattering data_
 
 C. Völter, V. Starostin, M. Romodin, E. Kneschaurek, D. Lapkin, A. Hinderhofer, and F. Schreiber. Journal of Open Source Software [https://joss.theoj.org/papers/10.21105/joss.08499]
 
