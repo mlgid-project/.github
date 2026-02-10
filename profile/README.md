@@ -45,13 +45,13 @@ The following is the list of papers related to the _mlgid_ project.
 
 _pygid: a Python package for fast data reduction in grazing-incidence diffraction_
 
-A. Abukaev, C. Völter, M. Romodin, S. Schwartzkopff, F. Bertram, O. Konovalov, A. Hinderhofer, D. Lapkin and F. Schreiber. 	Journal of Applied Crystallography [https://doi.org/10.1107/S1600576725010593]
+A. Abukaev, C. Völter, M. Romodin, S. Schwartzkopff, F. Bertram, O. Konovalov, A. Hinderhofer, D. Lapkin and F. Schreiber. J. Appl. Crystallogr. 59, 263 (2026) [https://doi.org/10.1107/S1600576725010593]
 
 ### mlgidGUI
 
 _mlgidGUI - an annotation program for 2D scattering data_
 
-C. Völter, V. Starostin, M. Romodin, E. Kneschaurek, D. Lapkin, A. Hinderhofer, and F. Schreiber. Journal of Open Source Software [https://joss.theoj.org/papers/10.21105/joss.08499]
+C. Völter, V. Starostin, M. Romodin, E. Kneschaurek, D. Lapkin, A. Hinderhofer, and F. Schreiber. J. Open Source Softw. 10, 8499 (2025) [https://joss.theoj.org/papers/10.21105/joss.08499]
 
 ### ML-based peak detection and structure refinement
 
@@ -64,12 +64,12 @@ V. Starostin, V. Munteanu, A. Greco, E. Kneschaurek, A. Pleli, F. Bertram, A. Ge
 _End-to-end deep learning pipeline for real-time processing of
 surface scattering data at synchrotron facilities_
 
-V. Starostin, L. Pithan, A. Greco, V. Munteanu, A. Gerlach, A. Hinderhofer, and F. Schreiber. Synchrotron Radiat. News 35, 21-27 (2022) [https://doi.org/10.1080/08940886.2022.2112499](https://doi.org/10.1080/08940886.2022.2112499)
+V. Starostin, L. Pithan, A. Greco, V. Munteanu, A. Gerlach, A. Hinderhofer, and F. Schreiber. Synchrotron Radiat. News 35, 21 (2022) [https://doi.org/10.1080/08940886.2022.2112499](https://doi.org/10.1080/08940886.2022.2112499)
 
 ### Benchmarking peak detection
 
 _Benchmarking deep learning for automated peak detection on GIWAXS data_
 
-C. Völter, V. Starostin, D. Lapkin, V. Munteanu, M. Romodin, M. Hylinski, A. Gerlach, A. Hinderhofer, F. Schreiber. J. Appl. Crystallogr. 58, 513-522 (2025) [https://doi.org/10.1107/S1600576725000974](https://doi.org/10.1107/S1600576725000974)
+C. Völter, V. Starostin, D. Lapkin, V. Munteanu, M. Romodin, M. Hylinski, A. Gerlach, A. Hinderhofer, F. Schreiber. J. Appl. Crystallogr. 58, 513 (2025) [https://doi.org/10.1107/S1600576725000974](https://doi.org/10.1107/S1600576725000974)
 
 </details>
