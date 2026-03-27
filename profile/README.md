@@ -31,6 +31,7 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 ## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulating synthetic GID data from crystal structures
 
+## [mlgidBASE](https://github.com/mlgid-project/mlgidBASE) - unified GID analysis toolbox
 ---
 
 # Publications
