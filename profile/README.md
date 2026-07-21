@@ -42,18 +42,6 @@ The following is the list of papers related to the _mlgid_ project.
 <details>
   <summary><strong>List of papers</strong></summary>
 
-### pygid
-
-_pygid: a Python package for fast data reduction in grazing-incidence diffraction_
-
-A. Abukaev, C. Völter, M. Romodin, S. Schwartzkopff, F. Bertram, O. Konovalov, A. Hinderhofer, D. Lapkin and F. Schreiber. J. Appl. Crystallogr. 59, 263 (2026) [https://doi.org/10.1107/S1600576725010593]
-
-### mlgidGUI
-
-_mlgidGUI - an annotation program for 2D scattering data_
-
-C. Völter, V. Starostin, M. Romodin, E. Kneschaurek, D. Lapkin, A. Hinderhofer, and F. Schreiber. J. Open Source Softw. 10, 8499 (2025) [https://joss.theoj.org/papers/10.21105/joss.08499]
-
 ### ML-based peak detection and structure refinement
 
 _Tracking perovskite crystallization via deep learning-based feature detection on 2D X-ray scattering data_
@@ -72,5 +60,17 @@ V. Starostin, L. Pithan, A. Greco, V. Munteanu, A. Gerlach, A. Hinderhofer, and 
 _Benchmarking deep learning for automated peak detection on GIWAXS data_
 
 C. Völter, V. Starostin, D. Lapkin, V. Munteanu, M. Romodin, M. Hylinski, A. Gerlach, A. Hinderhofer, F. Schreiber. J. Appl. Crystallogr. 58, 513 (2025) [https://doi.org/10.1107/S1600576725000974](https://doi.org/10.1107/S1600576725000974)
+
+### mlgidGUI
+
+_mlgidGUI - an annotation program for 2D scattering data_
+
+C. Völter, V. Starostin, M. Romodin, E. Kneschaurek, D. Lapkin, A. Hinderhofer, and F. Schreiber. J. Open Source Softw. 10, 8499 (2025) [https://joss.theoj.org/papers/10.21105/joss.08499]
+
+### pygid
+
+_pygid: a Python package for fast data reduction in grazing-incidence diffraction_
+
+A. Abukaev, C. Völter, M. Romodin, S. Schwartzkopff, F. Bertram, O. Konovalov, A. Hinderhofer, D. Lapkin and F. Schreiber. J. Appl. Crystallogr. 59, 263 (2026) [https://doi.org/10.1107/S1600576725010593]
 
 </details>
