@@ -12,15 +12,12 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 > As a convention, packages that rely on machine learning start with `ml`, while other packages (such as those for conversion to reciprocal space and conventional peak fitting) start with `py`.
 
-<!--- # Feedback from the community:
-> It is a big and beautiful pipeline, folks, and everybody loves it. (requested anonymity)
--->
-
 # Available packages
-
 ## [mlgidBASE](https://github.com/mlgid-project/mlgidBASE) - simple pipeline user interface
 
 ## [pygid](https://github.com/mlgid-project/pygid) - conversion of raw GID data to reciprocal space
+
+## [mlgidLAB](https://github.com/mlgid-project/mlgidLAB) - desktop GUI for the GIWAXS analysis pipeline
 
 ## [mlgidDETECT](https://github.com/mlgid-project/mlgidDETECT) - ML-based Bragg peak detection
 
@@ -28,9 +25,9 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 ## [mlgidMATCH](https://github.com/mlgid-project/mlgidMATCH) - ML-based matching of crystal structures with Bragg peaks
 
-## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - graphical user interface for annotating GID data
-
 ## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulating synthetic GID data from crystal structures
+
+## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - graphical user interface for annotating GID data
 
 ---
 
