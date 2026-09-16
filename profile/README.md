@@ -13,9 +13,9 @@ This project aims to implement a comprehensive set of tools for the standardizat
 > As a convention, packages that rely on machine learning start with `ml`, while other packages (such as those for conversion to reciprocal space and conventional peak fitting) start with `py`.
 
 # Available packages
-## [mlgidBASE](https://github.com/mlgid-project/mlgidBASE) - simple pipeline user interface
+## [mlgidBASE](https://github.com/mlgid-project/mlgidBASE) - simple pipeline programming interface
 
-## [mlgidLAB](https://github.com/mlgid-project/mlgidLAB) - desktop GUI for the GIWAXS analysis pipeline
+## [mlgidLAB](https://github.com/mlgid-project/mlgidLAB) - pipeline graphical user interface
 
 ## [pygid](https://github.com/mlgid-project/pygid) - conversion of raw GID data to reciprocal space
 
