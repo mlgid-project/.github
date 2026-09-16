@@ -15,9 +15,9 @@ This project aims to implement a comprehensive set of tools for the standardizat
 # Available packages
 ## [mlgidBASE](https://github.com/mlgid-project/mlgidBASE) - simple pipeline user interface
 
-## [pygid](https://github.com/mlgid-project/pygid) - conversion of raw GID data to reciprocal space
-
 ## [mlgidLAB](https://github.com/mlgid-project/mlgidLAB) - desktop GUI for the GIWAXS analysis pipeline
+
+## [pygid](https://github.com/mlgid-project/pygid) - conversion of raw GID data to reciprocal space
 
 ## [mlgidDETECT](https://github.com/mlgid-project/mlgidDETECT) - ML-based Bragg peak detection
 
@@ -27,7 +27,6 @@ This project aims to implement a comprehensive set of tools for the standardizat
 
 ## [pygidSIM](https://github.com/mlgid-project/pygidSIM) - simulating synthetic GID data from crystal structures
 
-## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - graphical user interface for annotating GID data
 
 ---
 
