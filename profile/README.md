@@ -15,7 +15,7 @@ This project aims to implement a comprehensive set of tools for the standardizat
 # Available packages
 ## [mlgidBASE](https://github.com/mlgid-project/mlgidBASE) - simple pipeline programming interface
 
-## [mlgidLAB](https://github.com/mlgid-project/mlgidLAB) - pipeline graphical user interface
+## [mlgidGUI](https://github.com/mlgid-project/mlgidGUI) - pipeline graphical user interface
 
 ## [pygid](https://github.com/mlgid-project/pygid) - conversion of raw GID data to reciprocal space
 
